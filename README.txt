@@ -1,1 +1,1 @@
-Proyecto creado con la finalidad de probar los frameworks
+Proyecto creado con la finalidad de probar los frameworks y sus nuevas versiones
